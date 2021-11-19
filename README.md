@@ -1,3 +1,9 @@
+See https://github.com/letsar/flutter_sticky_header/pull/63.
+
+This repository is just a quick fix.
+
+---
+
 # flutter_sticky_header
 
 A Flutter implementation of sticky headers with a sliver as a child.
